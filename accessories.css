@@ -1,0 +1,71 @@
+body{
+     
+}
+.nav-link{
+
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item .nav-link:hover{
+color: red;
+}
+.red{
+    color: red;
+}
+.touch{
+    background-color: red ;
+}
+  .extra{
+    color: red;
+    text-indent: 30px;
+}
+.extra2{
+    text-indent: 30px;
+}
+.img-fluid{
+
+}
+.top{
+    /* text-align: center; */
+}
+
+.card-body .card-text{
+    text-align:center ;
+    
+}
+.card-title{
+    text-align: center;
+    
+}
+.card-title:hover{
+    color: red;
+}
+.extra3 , .third{
+    color: red;
+}
+.top1{
+    /* text-align: center; */
+}
+.forms{
+    background-color:transparent;
+}
+footer {
+
+}
+.yameen{
+    height: 100px;
+    width: 300px;
+}
+.mx-1:hover{
+ color:red;
+}
+.mx-1{
+height: 50px;
+width: 50px;
+}
+.border{
+    background-color: red;
+}
+img:hover{
+    transform: scale(0.9);
+}
